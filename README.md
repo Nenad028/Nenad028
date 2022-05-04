@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nenad Perović
 - 👀 I’m eager to get involved in many project as i can
-- 🌱 I’m currently learning Adobe XD, Figma, Photoshop, Outlook, Excel, and few project management programs
+- 🌱 I’m currently learning Adobe XD, Figma, Photoshop, and enroled in web development
 - 📫 You can reach me on Linkedin (linkedin.com/in/perovic-a501a2187) or on WhatsApp (+381642417014)
 
 <!---
